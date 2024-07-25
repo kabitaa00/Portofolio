@@ -15,11 +15,12 @@
 
 ## Experience:
 #### 1. Bootcamp 
-         Teknik Komputer Jaringan dan Telekomunikasi SMK Taruna Bhakti 27 Dec 2023 - 28 Dec 2023 Enhancing knowledge and skills in 
-    Networking and Hosting.
+         Teknik Komputer Jaringan dan Telekomunikasi SMK Taruna Bhakti 27 Dec 2023 - 28 Dec 2023 
+         Enhancing knowledge and skills in Networking and Hosting.
          
 #### 2. Uji Level
-         Teknik Komputer Jaringan dan Telekomunikasi SMK Taruna Bhakti 12 June 2024 Assessing each student's level for grade promotion.
+         Teknik Komputer Jaringan dan Telekomunikasi SMK Taruna Bhakti 12 June 2024 
+         Assessing each student's level for grade promotion.
 ---
 
 ### Languages and Tools:
@@ -27,7 +28,7 @@
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Virtual Box" width="30px" src="https://i0.wp.com/softfamed.com/wp-content/uploads/2020/12/VirtualBox.jpg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
 
