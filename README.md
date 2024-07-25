@@ -1,7 +1,7 @@
 # Hi there, I'm Nabila Azzahra Kabita 👋
 ## About me:
 
-- 🌱 I’m currently learning Python, Cisco
+- 🌱 I am currently studying Computer network engineering and telecommunications 
 - 👯 I’m a student of SMK Taruna Bhakti Depok
 - 🤔 I can speak English ( a little bit )
 - 💬 Ask me about anything
