@@ -63,6 +63,9 @@
 </body>
 </html>
 
+<a href="mailto:nabilaazzahra2401@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width:30px;height:30px;">
+</a>
 
 
 
