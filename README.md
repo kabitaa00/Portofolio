@@ -32,9 +32,34 @@
 ---
 ### Connect with me:
 
-<a href="https://www.instagram.com/threeoflaa/" target="_blank">
-    <img src="./img/instagram-dark.svg" alt="Instagram">
-</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA</title>
+    <!-- Link to Font Awesome for Instagram icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        .instagram-link {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: inherit;
+        }
+        .instagram-link i {
+            margin-right: 8px;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA" class="instagram-link">
+        <i class="fab fa-instagram"></i>
+        threeoflaa
+    </a>
+</body>
+</html>
+
 
 
 
