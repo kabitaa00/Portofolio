@@ -1,13 +1,13 @@
 # Hi there, I'm Nabila Azzahra Kabita 👋
 ## About me:
 
-- 🌱 I am currently studying Computer network engineering and telecommunications 
 - 👯 I’m a student of SMK Taruna Bhakti Depok
+- 🌱 I am currently studying Computer network engineering and telecommunications
 - 🤔 I can speak English ( a little bit )
 - 💬 Ask me about anything
 - 📫 How to reach me: nabilaazzahra2401@gmail.com
 
-## Education:
+## Education: 
 
 #### 1. [SMP Taruna Bhakti](https://smptarunabhakti.com) |  Depok `2019-2022`
    
