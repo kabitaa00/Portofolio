@@ -29,8 +29,6 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
 [<img align="left" alt="Virtual Box" width="30px" src="https://i0.wp.com/softfamed.com/wp-content/uploads/2020/12/VirtualBox.jpg" style="padding-right:10px;" />]
 
-
-
 ---
 ### Connect with me:
 
