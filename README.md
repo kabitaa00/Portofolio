@@ -32,7 +32,6 @@
 ---
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-dark-mode-only)
 
 
