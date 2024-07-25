@@ -32,7 +32,9 @@
 ---
 ### Connect with me:
 
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-dark-mode-only)
+<a href="https://www.instagram.com/threeoflaa/" target="_blank">
+    <img src="./img/instagram-dark.svg" alt="Instagram">
+</a>
 
 
 
