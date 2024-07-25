@@ -38,8 +38,7 @@
 ---
 ### Connect with me:
 
-
-![website][https://th.bing.com/th/id/OIP.xdv0SGuh3lcQdygSUqRvtwAAAA?w=159&h=180&c=7&r=0&o=5&pid=1.7](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-dark-mode-only)
 
 
