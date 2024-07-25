@@ -1,7 +1,7 @@
 # Hi there, I'm Nabila Azzahra Kabita 👋
 ## About me:
 
-- 🌱 I’m currently learning Pytho, Cisco
+- 🌱 I’m currently learning Python, Cisco.
 - 👯 I’m a student of SMK Taruna Bhakti Depok
 - 🤔 I can speak English ( a little bit )
 - 💬 Ask me about anything
@@ -14,12 +14,12 @@
 #### 2. [SMK Taruna Bhakti](https://smktarunabhakti.net) | TJKT | Depok `2022-now`
 
 ## Experience:
-#### 1. Bootcamp
-         h
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. Bootcamp 
+         Teknik Komputer Jaringan dan Telekomunikasi SMK Taruna Bhakti 27 Dec 2023 - 28 Dec 2023 Enhancing knowledge and skills in 
+    Networking and Hosting.
+         
+#### 2. Uji Level
+         Teknik Komputer Jaringan dan Telekomunikasi SMK Taruna Bhakti 12 June 2024 Assessing each student's level for grade promotion.
 ---
 
 ### Languages and Tools:
