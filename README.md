@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="GNS3" width="30px" src="https://www.dir-tech.com/wp-content/uploads/2023/05/Pourquoi-utiliser-une-GNS3-VM-au-lieu-de-GNS3-.jpg" style="padding-right:10px;" />][webdev]
+[[<img align="left" alt="GNS3" width="30px" src="https://th.bing.com/th/id/OIP.jrzsUe6lBkA45pXuGlP1rwHaIC?w=161&h=180&c=7&r=0&o=5&pid=1.7" style="padding-right:10px;" />][webdev]]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Virtual Box" width="30px" src="https://i0.wp.com/softfamed.com/wp-content/uploads/2020/12/VirtualBox.jpg" style="padding-right:10px;" />][webdev]
@@ -39,7 +39,7 @@
 ### Connect with me:
 
 
-[![website](./img/instagram-light.svg)](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-light-mode-only)
+![website][https://th.bing.com/th/id/OIP.xdv0SGuh3lcQdygSUqRvtwAAAA?w=159&h=180&c=7&r=0&o=5&pid=1.7](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/threeoflaa?igsh=MTEwaXAxMXh1cWZrOA#gh-dark-mode-only)
 
 
