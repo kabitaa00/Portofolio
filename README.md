@@ -29,13 +29,13 @@
 [<img align="left" alt="Virtual Box" width="30px" src="https://i0.wp.com/softfamed.com/wp-content/uploads/2020/12/VirtualBox.jpg" style="padding-right:10px;" />]
 [<img align="left" alt="Wireshark" width="30px" src="https://th.bing.com/th/id/OIP.DqamdMw9_26o0VGnbj5WxAAAAA?w=180&h=180&c=7&r=0&o=5&pid=1.7" style="padding-right:10px;" />]
 [<img align="left" alt="GNS3" width="30px" src="https://th.bing.com/th/id/OIP.JKUr88cx2GhalHYydwPeDgAAAA?w=153&h=180&c=7&r=0&o=5&pid=1.7" style="padding-right:10px;" />]
+[<img align="left" alt="Cisco Packet Tracer" width="30px" src="https://th.bing.com/th/id/OIP.jrzsUe6lBkA45pXuGlP1rwHaIC?w=147&h=180&c=7&r=0&o=5&pid=1.7" style="padding-right:10px;" />]
 ---
 ### Connect with me:
 
 
-<a href="mailto:nabilaazzahra2401@gmail.com">
-</a>       
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width:30px;height:30px;"> 
+<a href="mailto:nabilaazzahra2401@gmail.com">   
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width:30px;height:30px;"> 
 <a href="https://www.instagram.com/threeoflaa" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:30px;height:30px;">
 </a>
