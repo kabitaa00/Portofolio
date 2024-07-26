@@ -33,8 +33,7 @@
 ### Connect with me:
 
 
-<a href="mailto:nabilaazzahra2401@gmail.com">                                                                                             <a href="https://www.instagram.com/threeoflaa" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:30px;height:30px;">
+<a href="mailto:nabilaazzahra2401@gmail.com">target="_blank">
 </a>       
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width:30px;height:30px;">  
 </a>
